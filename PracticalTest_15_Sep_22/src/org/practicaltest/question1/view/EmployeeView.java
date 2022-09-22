@@ -7,8 +7,6 @@ import java.util.Scanner;
 import org.practicaltest.question1.model.Employee;
 import org.practicaltest.question1.service.EmployeeService;
 
-
-
 public class EmployeeView {
 	
 	static Scanner sc=new Scanner(System.in);
