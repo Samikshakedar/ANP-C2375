@@ -16,14 +16,14 @@ public class StudentView {
 	   for(int i=0;i<10;i++) {
 		   
 		  System.out.println("Enter Student Details");
-		  System.out.println("Enter the Student id");
+		  System.out.println("Enter the Student id:- ");
 		  int id=(sc.nextInt());
 		  
-		  System.out.println("Enter Student Age ");
+		  System.out.println("Enter Student Age:- ");
 		  int Age=(sc.nextInt());
 		  sc.nextLine();
 		  
-		  System.out.println("Enter Student Name");
+		  System.out.println("Enter Student Name:- ");
 		  String Name=(sc.nextLine());
 		  
 		  System.out.println(studentService.setStudent(new Student(id,Age,Name)));
