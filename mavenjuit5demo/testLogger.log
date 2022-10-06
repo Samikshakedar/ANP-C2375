@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T10:28:41.928286Z</date>
+  <millis>1665052121928</millis>
+  <nanos>286000</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:41.986193300Z</date>
+  <millis>1665052121986</millis>
+  <nanos>193300</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:41.992118900Z</date>
+  <millis>1665052121992</millis>
+  <nanos>118900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:41.994110400Z</date>
+  <millis>1665052121994</millis>
+  <nanos>110400</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:42.008073700Z</date>
+  <millis>1665052122008</millis>
+  <nanos>73700</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:42.009070900Z</date>
+  <millis>1665052122009</millis>
+  <nanos>70900</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:42.010099Z</date>
+  <millis>1665052122010</millis>
+  <nanos>99000</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:28:42.012062200Z</date>
+  <millis>1665052122012</millis>
+  <nanos>62200</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T10:32:30.647483300Z</date>
+  <millis>1665052350647</millis>
+  <nanos>483300</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.755928800Z</date>
+  <millis>1665052350755</millis>
+  <nanos>928800</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.762931300Z</date>
+  <millis>1665052350762</millis>
+  <nanos>931300</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.766897700Z</date>
+  <millis>1665052350766</millis>
+  <nanos>897700</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.786846Z</date>
+  <millis>1665052350786</millis>
+  <nanos>846000</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.787851200Z</date>
+  <millis>1665052350787</millis>
+  <nanos>851200</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.788837800Z</date>
+  <millis>1665052350788</millis>
+  <nanos>837800</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:32:30.791837600Z</date>
+  <millis>1665052350791</millis>
+  <nanos>837600</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T10:35:35.727470600Z</date>
+  <millis>1665052535727</millis>
+  <nanos>470600</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.796542500Z</date>
+  <millis>1665052535796</millis>
+  <nanos>542500</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.804520900Z</date>
+  <millis>1665052535804</millis>
+  <nanos>520900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.809508800Z</date>
+  <millis>1665052535809</millis>
+  <nanos>508800</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.818483200Z</date>
+  <millis>1665052535818</millis>
+  <nanos>483200</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.819481400Z</date>
+  <millis>1665052535819</millis>
+  <nanos>481400</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.820478300Z</date>
+  <millis>1665052535820</millis>
+  <nanos>478300</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:35:35.823470200Z</date>
+  <millis>1665052535823</millis>
+  <nanos>470200</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T10:36:45.013444900Z</date>
+  <millis>1665052605013</millis>
+  <nanos>444900</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.076805800Z</date>
+  <millis>1665052605076</millis>
+  <nanos>805800</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.079794400Z</date>
+  <millis>1665052605079</millis>
+  <nanos>794400</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.083800Z</date>
+  <millis>1665052605083</millis>
+  <nanos>800000</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.094747Z</date>
+  <millis>1665052605094</millis>
+  <nanos>747000</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.095761600Z</date>
+  <millis>1665052605095</millis>
+  <nanos>761600</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.096743200Z</date>
+  <millis>1665052605096</millis>
+  <nanos>743200</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:36:45.098740600Z</date>
+  <millis>1665052605098</millis>
+  <nanos>740600</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T10:38:56.963655900Z</date>
+  <millis>1665052736963</millis>
+  <nanos>655900</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.029521600Z</date>
+  <millis>1665052737029</millis>
+  <nanos>521600</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.036416300Z</date>
+  <millis>1665052737036</millis>
+  <nanos>416300</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.042418400Z</date>
+  <millis>1665052737042</millis>
+  <nanos>418400</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.059355200Z</date>
+  <millis>1665052737059</millis>
+  <nanos>355200</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.060460700Z</date>
+  <millis>1665052737060</millis>
+  <nanos>460700</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.062348600Z</date>
+  <millis>1665052737062</millis>
+  <nanos>348600</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T10:38:57.067334100Z</date>
+  <millis>1665052737067</millis>
+  <nanos>334100</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:23:28.043817Z</date>
+  <millis>1665055408043</millis>
+  <nanos>817000</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.133577500Z</date>
+  <millis>1665055408133</millis>
+  <nanos>577500</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.140558800Z</date>
+  <millis>1665055408140</millis>
+  <nanos>558800</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.146549600Z</date>
+  <millis>1665055408146</millis>
+  <nanos>549600</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.170480300Z</date>
+  <millis>1665055408170</millis>
+  <nanos>480300</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.173471200Z</date>
+  <millis>1665055408173</millis>
+  <nanos>471200</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.174469700Z</date>
+  <millis>1665055408174</millis>
+  <nanos>469700</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:23:28.179453900Z</date>
+  <millis>1665055408179</millis>
+  <nanos>453900</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:24:26.761100Z</date>
+  <millis>1665055466761</millis>
+  <nanos>100000</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.853852Z</date>
+  <millis>1665055466853</millis>
+  <nanos>852000</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.857840900Z</date>
+  <millis>1665055466857</millis>
+  <nanos>840900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.861831200Z</date>
+  <millis>1665055466861</millis>
+  <nanos>831200</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.871804300Z</date>
+  <millis>1665055466871</millis>
+  <nanos>804300</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.872815Z</date>
+  <millis>1665055466872</millis>
+  <nanos>815000</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.872815Z</date>
+  <millis>1665055466872</millis>
+  <nanos>815000</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:24:26.876823700Z</date>
+  <millis>1665055466876</millis>
+  <nanos>823700</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:25:23.443653300Z</date>
+  <millis>1665055523443</millis>
+  <nanos>653300</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.514856900Z</date>
+  <millis>1665055523514</millis>
+  <nanos>856900</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.517884Z</date>
+  <millis>1665055523517</millis>
+  <nanos>884000</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.521838400Z</date>
+  <millis>1665055523521</millis>
+  <nanos>838400</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.543779400Z</date>
+  <millis>1665055523543</millis>
+  <nanos>779400</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.545806300Z</date>
+  <millis>1665055523545</millis>
+  <nanos>806300</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.546798400Z</date>
+  <millis>1665055523546</millis>
+  <nanos>798400</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:25:23.549763Z</date>
+  <millis>1665055523549</millis>
+  <nanos>763000</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:26:00.601767900Z</date>
+  <millis>1665055560601</millis>
+  <nanos>767900</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.682436600Z</date>
+  <millis>1665055560682</millis>
+  <nanos>436600</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.689422200Z</date>
+  <millis>1665055560689</millis>
+  <nanos>422200</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.694412Z</date>
+  <millis>1665055560694</millis>
+  <nanos>412000</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.709368Z</date>
+  <millis>1665055560709</millis>
+  <nanos>368000</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.710388100Z</date>
+  <millis>1665055560710</millis>
+  <nanos>388100</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.713353300Z</date>
+  <millis>1665055560713</millis>
+  <nanos>353300</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:00.716382800Z</date>
+  <millis>1665055560716</millis>
+  <nanos>382800</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:26:34.773893Z</date>
+  <millis>1665055594773</millis>
+  <nanos>893000</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.828749100Z</date>
+  <millis>1665055594828</millis>
+  <nanos>749100</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.832766600Z</date>
+  <millis>1665055594832</millis>
+  <nanos>766600</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.836724200Z</date>
+  <millis>1665055594836</millis>
+  <nanos>724200</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.848691500Z</date>
+  <millis>1665055594848</millis>
+  <nanos>691500</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.849689600Z</date>
+  <millis>1665055594849</millis>
+  <nanos>689600</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.850686Z</date>
+  <millis>1665055594850</millis>
+  <nanos>686000</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:26:34.852682100Z</date>
+  <millis>1665055594852</millis>
+  <nanos>682100</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:27:08.764113700Z</date>
+  <millis>1665055628764</millis>
+  <nanos>113700</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.841582900Z</date>
+  <millis>1665055628841</millis>
+  <nanos>582900</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.845574900Z</date>
+  <millis>1665055628845</millis>
+  <nanos>574900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.849550200Z</date>
+  <millis>1665055628849</millis>
+  <nanos>550200</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.870492700Z</date>
+  <millis>1665055628870</millis>
+  <nanos>492700</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.871508200Z</date>
+  <millis>1665055628871</millis>
+  <nanos>508200</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.871508200Z</date>
+  <millis>1665055628871</millis>
+  <nanos>508200</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:08.877479Z</date>
+  <millis>1665055628877</millis>
+  <nanos>479000</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:27:46.383256700Z</date>
+  <millis>1665055666383</millis>
+  <nanos>256700</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.460694Z</date>
+  <millis>1665055666460</millis>
+  <nanos>694000</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.464684900Z</date>
+  <millis>1665055666464</millis>
+  <nanos>684900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.469669900Z</date>
+  <millis>1665055666469</millis>
+  <nanos>669900</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.483632700Z</date>
+  <millis>1665055666483</millis>
+  <nanos>632700</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.484694200Z</date>
+  <millis>1665055666484</millis>
+  <nanos>694200</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.485626800Z</date>
+  <millis>1665055666485</millis>
+  <nanos>626800</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:27:46.487621400Z</date>
+  <millis>1665055666487</millis>
+  <nanos>621400</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:30:01.992439400Z</date>
+  <millis>1665055801992</millis>
+  <nanos>439400</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.072406700Z</date>
+  <millis>1665055802072</millis>
+  <nanos>406700</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.078384900Z</date>
+  <millis>1665055802078</millis>
+  <nanos>384900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.082352700Z</date>
+  <millis>1665055802082</millis>
+  <nanos>352700</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.094332Z</date>
+  <millis>1665055802094</millis>
+  <nanos>332000</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.095329100Z</date>
+  <millis>1665055802095</millis>
+  <nanos>329100</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.096321700Z</date>
+  <millis>1665055802096</millis>
+  <nanos>321700</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:02.099307300Z</date>
+  <millis>1665055802099</millis>
+  <nanos>307300</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:30:35.924553100Z</date>
+  <millis>1665055835924</millis>
+  <nanos>553100</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.009475700Z</date>
+  <millis>1665055836009</millis>
+  <nanos>475700</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.013465600Z</date>
+  <millis>1665055836013</millis>
+  <nanos>465600</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.017458900Z</date>
+  <millis>1665055836017</millis>
+  <nanos>458900</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.040414200Z</date>
+  <millis>1665055836040</millis>
+  <nanos>414200</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.041398600Z</date>
+  <millis>1665055836041</millis>
+  <nanos>398600</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.042382800Z</date>
+  <millis>1665055836042</millis>
+  <nanos>382800</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:30:36.045401Z</date>
+  <millis>1665055836045</millis>
+  <nanos>401000</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:32:37.797626600Z</date>
+  <millis>1665055957797</millis>
+  <nanos>626600</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.857096900Z</date>
+  <millis>1665055957857</millis>
+  <nanos>96900</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.864051900Z</date>
+  <millis>1665055957864</millis>
+  <nanos>51900</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.868041200Z</date>
+  <millis>1665055957868</millis>
+  <nanos>41200</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.882004700Z</date>
+  <millis>1665055957882</millis>
+  <nanos>4700</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.882004700Z</date>
+  <millis>1665055957882</millis>
+  <nanos>4700</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.883010800Z</date>
+  <millis>1665055957883</millis>
+  <nanos>10800</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:32:37.884997700Z</date>
+  <millis>1665055957884</millis>
+  <nanos>997700</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:37:58.661513700Z</date>
+  <millis>1665056278661</millis>
+  <nanos>513700</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.751274500Z</date>
+  <millis>1665056278751</millis>
+  <nanos>274500</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.754266Z</date>
+  <millis>1665056278754</millis>
+  <nanos>266000</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.760250800Z</date>
+  <millis>1665056278760</millis>
+  <nanos>250800</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.771220800Z</date>
+  <millis>1665056278771</millis>
+  <nanos>220800</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.772218300Z</date>
+  <millis>1665056278772</millis>
+  <nanos>218300</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.773216700Z</date>
+  <millis>1665056278773</millis>
+  <nanos>216700</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:37:58.775210200Z</date>
+  <millis>1665056278775</millis>
+  <nanos>210200</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:41:39.841942100Z</date>
+  <millis>1665056499841</millis>
+  <nanos>942100</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.917789700Z</date>
+  <millis>1665056499917</millis>
+  <nanos>789700</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.920781700Z</date>
+  <millis>1665056499920</millis>
+  <nanos>781700</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.924770900Z</date>
+  <millis>1665056499924</millis>
+  <nanos>770900</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.936739Z</date>
+  <millis>1665056499936</millis>
+  <nanos>739000</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.937736100Z</date>
+  <millis>1665056499937</millis>
+  <nanos>736100</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.938733500Z</date>
+  <millis>1665056499938</millis>
+  <nanos>733500</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:41:39.941725700Z</date>
+  <millis>1665056499941</millis>
+  <nanos>725700</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T11:43:51.489783900Z</date>
+  <millis>1665056631489</millis>
+  <nanos>783900</nanos>
+  <sequence>0</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUpBeforeClass</method>
+  <thread>1</thread>
+  <message>Before all anotations got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.557601200Z</date>
+  <millis>1665056631557</millis>
+  <nanos>601200</nanos>
+  <sequence>1</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.561591100Z</date>
+  <millis>1665056631561</millis>
+  <nanos>591100</nanos>
+  <sequence>2</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.566577900Z</date>
+  <millis>1665056631566</millis>
+  <nanos>577900</nanos>
+  <sequence>3</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.577550600Z</date>
+  <millis>1665056631577</millis>
+  <nanos>550600</nanos>
+  <sequence>4</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>setUp</method>
+  <thread>1</thread>
+  <message>Before Each annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.579545700Z</date>
+  <millis>1665056631579</millis>
+  <nanos>545700</nanos>
+  <sequence>5</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>test1</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.579545700Z</date>
+  <millis>1665056631579</millis>
+  <nanos>545700</nanos>
+  <sequence>6</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>AfterEach annotation got executed</message>
+</record>
+<record>
+  <date>2022-10-06T11:43:51.583532600Z</date>
+  <millis>1665056631583</millis>
+  <nanos>532600</nanos>
+  <sequence>7</sequence>
+  <logger>Unit converter logger details</logger>
+  <level>INFO</level>
+  <class>mavenjuit5demo.set.UnitConvertersTest3Logger</class>
+  <method>tearDownAfterClass</method>
+  <thread>1</thread>
+  <message>After all annotation got executed</message>
+</record>
+</log>

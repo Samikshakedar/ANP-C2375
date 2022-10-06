@@ -1,20 +1,24 @@
-package myjunitdemos.set1;
+package mavenjuit5demo.set;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Disabled;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
-import myjunitdemos.set.UnitConverter;
-class UnitConverters {
-    @Test
+import org.junit.jupiter.api.function.Executable;
+
+import mavenjuit5demo.set1.UnitConverters;
+class UnitConvertersTest1 {
+    
+	@Test
 	void convertMeterToCentimeterTestSuccess() {
-		assertEquals(100, UnitConverter.convertMeterToCentimenter(1));
+		assertEquals(100, UnitConverters.convertMeterToCentimenter(1));
 	}
-    @Test
+   
+	@Test
 	void convertMeterToCentimeterTestFail(){
-	     assertNotEquals(200, UnitConverter.convertMeterToCentimenter(1));
+	     assertNotEquals(200, UnitConverters.convertMeterToCentimenter(1));
 	}
-    @Test
+   
+	@Test
     @Disabled
     void convertMeterTocentimeterTestDisabled() {
     }
@@ -25,5 +29,5 @@ class UnitConverters {
     @RepeatedTest(3)
     void convertMeterToCentimeterRepeatedTest() {
     	System.out.println("repeated test");
-    }    
-}
+    }
+} 

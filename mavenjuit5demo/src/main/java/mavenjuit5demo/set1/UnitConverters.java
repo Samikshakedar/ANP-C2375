@@ -1,6 +1,6 @@
-package myjunitdemos.set;
+package mavenjuit5demo.set1;
 
-public class UnitConverter {
+public class UnitConverters {
 	public static Integer convertMeterToCentimenter(int meter) {
 		return meter*100;
 	}
